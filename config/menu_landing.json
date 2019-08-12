@@ -1,5 +1,1 @@
-{% extends 'index.html' %}
-
-{% block content %}
-  Menu landing
-{% endblock %}
+{}
