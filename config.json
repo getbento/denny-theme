@@ -9,7 +9,19 @@
           "background_color": "color",
           "font_color": "color"
         }
+      },
+      "text": {
+        "type": "section",
+        "items": {
+          "emoji": "text"
+        }
       }
-    }
+    },
+    "navs": [
+      {
+        "name": "Navigation",
+        "slug": "🎉🎉🎉"
+      }
+    ]
   }
 }
