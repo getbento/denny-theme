@@ -1,13 +1,13 @@
 {
   "theme": {
     "name": "",
-    "author": ""
-  },
-  "fields": {
-    "colors": {
-      "type": "section",
-      "items": {
-        "background_color": "color"
+    "author": "",
+    "fields": {
+      "colors": {
+        "type": "section",
+        "items": {
+          "background_color": "color"
+        }
       }
     }
   }
