@@ -1,6 +1,9 @@
 {
   "theme": {
-    "name": ""
+    "name": "",
+    "author": ""
   },
-  "fields": {}
+  "fields": {
+    "background_color": "color"
+  }
 }
