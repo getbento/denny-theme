@@ -4,6 +4,11 @@
     "author": ""
   },
   "fields": {
-    "background_color": "color"
+    "colors": {
+      "type": "section",
+      "items": {
+        "background_color": "color"
+      }
+    }
   }
 }
