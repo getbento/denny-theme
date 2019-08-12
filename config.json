@@ -16,12 +16,12 @@
           "emoji": "text"
         }
       }
-    },
-    "navs": [
-      {
-        "name": "Navigation",
-        "slug": "🎉🎉🎉"
-      }
-    ]
-  }
+    }
+  },
+  "navs": [
+    {
+      "name": "Navigation",
+      "slug": "🎉🎉🎉"
+    }
+  ]
 }
